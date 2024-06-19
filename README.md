@@ -2,8 +2,8 @@
  Lenovo Thinkpad X1 Carbon Gen 8 (20U9) Sonoma EFI based on OpenCore 
 
 
+Thinkpad X1 Carbon Gen 8 (20U9) Sonoma EFI based on OpenCore - stable version
 
-**Status: Stable | Daily driver**
 
 # Laptop's Hardware
 | Specifications | Details |
