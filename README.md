@@ -52,6 +52,7 @@ Thinkpad X1 Carbon Gen 8 (20U9) Sonoma EFI based on OpenCore - stable version
 <details>  
 <summary><strong>NOT WORKING ❌</strong></summary>
 <br>
+ 
  - Fingerprint Reader 
  - Wireless WAN 
  - DRM 
