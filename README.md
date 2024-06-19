@@ -24,49 +24,48 @@ Thinkpad X1 Carbon Gen 8 (20U9) Sonoma EFI based on OpenCore - stable version
 <summary><strong>WORKING ✅</strong></summary>
 <br>
 
-| Video and Audio | ✅ | 
-| Power Management | ✅ | 
-| WiFi | ✅ | 
-| Bluetooth | ✅ | 
-| Ethernet | ✅ | 
-| HDMI 1.4 | ✅ |
-| 1st USB-C (Display output) | ✅ |
-| 2nd USB-C (Display output) | ✅ | 
-| USB 2.0 / USB 3.0 | ✅ | 
-| USB 3.1 (Type-C) | ✅ | 
-| USB Power Properties in macOS | ✅ | 
-| ThinkPad USB-C Docking Station | ✅ | 
-| Brightness Adjustments | ✅ | 
-| TrackPoint | ✅ | 
-| TrackPad | ✅ | 
-| Built-in Keyboard | ✅ | 
-| Webcam | ✅ | 
-| iCloud, iMessage, FaceTime | ✅ | 
-| Sidecar (wired) | ✅ | 
-| Boot chime | ✅ | - | Working like a charme |
-| Fan Control / Multimedia Keys | ✅ | 
-| FireVault 2 | ✅ | 
+ - Video and Audio 
+ - Power Management 
+ - WiFi 
+ - Bluetooth 
+ - Ethernet 
+ - HDMI 1.4 
+ - 1st USB-C (Display output) 
+ - 2nd USB-C (Display output) 
+ - USB 2.0 / USB 3.0 
+ - USB 3.1 (Type-C) 
+ - USB Power Properties in macOS 
+ - ThinkPad USB-C Docking Station 
+ - Brightness Adjustments 
+ - TrackPoint 
+ - TrackPad 
+ - Built-in Keyboard 
+ - Webcam 
+ - iCloud, iMessage, FaceTime 
+ - Sidecar (wired) 
+ - Boot chime 
+ - Fan Control / Multimedia Keys 
+ - FireVault 2 
 
 </details>  
 
 <details>  
 <summary><strong>NOT WORKING ❌</strong></summary>
 <br>
-
-| Fingerprint Reader | ❌ | 
-| Wireless WAN | ❌ | 
-| DRM | ❌ | 
-| Internal Microphone | ❌ | 
-| Thunderbolt 3 | ❌ | 
-| Continuity Camera | ❌ | 
-| AirDrop | ❌ | 
-| Apple Watch Auto Unlock | ❌ | 
-| Instant Hotspot | ❌ | 
-| Sidecar (wireless) | ❌ | 
-| Continuity Markup and Sketch | ❌ | 
-| Handoff | ❌ | 
-| Universal Clipboard | ❌ | 
-| SMS & Phone Call via iPhone | ❌ | 
-| AirPlay to Mac | ❌ | 
+ - Fingerprint Reader 
+ - Wireless WAN 
+ - DRM 
+ - Internal Microphone 
+ - Thunderbolt 3 
+ - Continuity Camera 
+ - AirDrop 
+ - Apple Watch Auto Unlock 
+ - Instant Hotspot 
+ - Sidecar (wireless) 
+ - Continuity Markup and Sketch 
+ - Handoff
+ - Universal Clipboard 
+ - SMS & Phone Call via iPhone 
+ - AirPlay to Mac 
 
 </details>  
